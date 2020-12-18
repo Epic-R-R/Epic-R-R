@@ -30,33 +30,5 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=Epic-R-R&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  ##### I am currently aiming to reach ELO 1500 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
-
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
-
- 1481.00  ┤                                 ╭╮  ╭╮
- 1472.81  ┤                               ╭─╯╰╮ │╰╮╭╮
- 1464.62  ┤                    ╭╮╭╮      ╭╯   ╰─╯ ╰╯╰─╮
- 1456.44  ┤             ╭╮    ╭╯╰╯╰╮╭╮╭──╯            ╰─╮  ╭─╮  ╭╮╭╮
- 1448.25  ┤ ╭╮╭──╮   ╭──╯╰╮  ╭╯    ╰╯╰╯                 ╰╮╭╯ ╰╮╭╯╰╯╰──╮
- 1440.06  ┤╭╯╰╯  ╰╮╭─╯    ╰╮╭╯                           ╰╯   ╰╯      ╰╮
- 1431.88  ┼╯      ╰╯       ╰╯                                          ╰╮
- 1423.69  ┤                                                             ╰╮
- 1415.50  ┤                                                              ╰╮             ╭╮
- 1407.31  ┤                                                               ╰╮       ╭─╮╭─╯╰╮
- 1399.12  ┤                                                                ╰╮ ╭─╮ ╭╯ ╰╯   ╰╮╭╮
- 1390.94  ┤                                                                 ╰╮│ ╰─╯        ╰╯╰╮
- 1382.75  ┤                                                                  ╰╯               ╰╮   ╭╮╭╮      ╭
- 1374.56  ┤                                                                                    ╰─╮╭╯╰╯╰╮    ╭╯
- 1366.38  ┤                                                                                      ╰╯    ╰╮  ╭╯
- 1358.19  ┤                                                                                             ╰──╯
- 1350.00  ┤
-
-Chart last updated - Wed Dec  9 17:51:34 IST 2020  
-  ```
+  [![Stats](https://github-readme-stats.vercel.app/api?username=Epic-R-R&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)
   
