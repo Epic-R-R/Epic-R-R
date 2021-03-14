@@ -1,7 +1,7 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
   
-  - 🔭 I’m currently working as a Software Developer nad Back-End Developer
+  - 🔭 I’m currently working as a Software Developer and Back-End Developer
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 😄 Pronouns: He / Him
   
