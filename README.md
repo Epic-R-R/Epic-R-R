@@ -15,7 +15,7 @@
 ###
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sullivan!;Welcome+to+my+Profile!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Sullivan!;Welcome+to+my+Profile;" />
 </h1>
 
 <h3 align="center">A passionate Software Developer from 127.0.0.1 🌍</h3>
@@ -28,9 +28,9 @@
  
  🌱 I'm learning **new technologies and frameworks**
  
- 💬 Ask me about **anything tech-related, I'm happy to help!**
+ 💬 Ask me about **anything tech-related, I'm happy to help**
  
- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
+ ⚡ Fun fact: **I debug with console.log() and I'm not ashamed 😄**
 
 </div>
  
@@ -86,11 +86,6 @@
 <br/>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=epic-r-r&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
 <div align="center">
   
 ### Show some ❤️ by starring some repositories
